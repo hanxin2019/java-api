@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java_api_object" />
+        <module name="javaapistring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java_api_object" target="1.8" />
       <module name="java_api_parent" target="1.8" />
+      <module name="javaapistring" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
