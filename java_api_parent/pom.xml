@@ -24,8 +24,6 @@
                 <artifactId>mysql-connector-java</artifactId>
                 <version>${mysql-connector-java.dirive.version}</version>
             </dependency>
-
-
         </dependencies>
     </dependencyManagement>
 
