@@ -13,7 +13,7 @@
     </modules>
 
     <properties>
-    <mysql-connector-java.dirive.version>5.1.38</mysql-connector-java.dirive.version>
+       <mysql-connector-java.dirive.version>5.0.8</mysql-connector-java.dirive.version>
     </properties>
 
     <dependencyManagement>
