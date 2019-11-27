@@ -12,9 +12,8 @@
     <artifactId>java-api-string</artifactId>
 <dependencies>
     <dependency>
-        <groupId>mysql</groupId>
-        <artifactId>mysql-connector-java</artifactId>
-        <version>${mysql-connector-java.dirive.version}</version>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
     </dependency>
 </dependencies>
 

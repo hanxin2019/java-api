@@ -15,6 +15,7 @@
 
     <properties>
        <mysql-connector-java.dirive.version>5.0.8</mysql-connector-java.dirive.version>
+       <junit.test.version>4.11</junit.test.version>
     </properties>
 
     <dependencyManagement>
@@ -24,6 +25,11 @@
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
                 <version>${mysql-connector-java.dirive.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>${junit.test.version}</version>
             </dependency>
         </dependencies>
 
