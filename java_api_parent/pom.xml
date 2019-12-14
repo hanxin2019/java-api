@@ -12,6 +12,7 @@
         <module>java_api_object</module>
         <module>java-api-string</module>
         <module>java-api-date</module>
+        <module>java-api-io</module>
     </modules>
 
     <properties>
